@@ -6,3 +6,4 @@
 
   return;
  }
+ void newfun(void) {}
